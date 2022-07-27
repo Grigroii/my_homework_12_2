@@ -1,0 +1,62 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-753-395
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:11] "GET /search/?s=Í‡ÒË‚Ó HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:26] "GET /search/?s=hs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:35] "GET /search/?s=Ê‡‚˚Â HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:37] "[33mGET /search/post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:40] "GET /search/?s=Ê‡‚˚Â HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:41] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:52] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:08:53] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:27] "GET /search/?s=Ê‡‚˚Â HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:31] "GET /search/?s=Í‡ÒË‚Ó HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:36] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:09:37] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:49] "GET /search/?s=—Ä–∂–∞–≤—ã–µ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:51] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:56] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:10:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:31] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:33] "GET /search/?s=—Ä–∂–∞–≤—ã–µ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:38] "GET /search/?s=rh%5C HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:43] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:12:47] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:–í—ã–ø–æ–ª–Ω—è—é –ø–æ–∏—Å–∫
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:32] "GET /search/?s=–∫—Ä–∞—Å–∏–≤–æ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:–ó–∞–≥—Ä—É–∂–µ–Ω–Ω—ã–π —Ñ–∞–π–ª –Ω–µ –∫–∞—Ä—Ç–∏–Ω–∫–∞
+INFO:werkzeug:127.0.0.1 - - [27/Jul/2022 15:25:37] "POST /post HTTP/1.1" 200 -
